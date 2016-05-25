@@ -2,16 +2,15 @@ nav {
                 background: #33ffff;
                 width: 20em;
             }
-            
-            img {
+img {
                 width: 200px;
                 margin-left: -40px;
             }
-            
-            article {
+article {
                 margin-left: 1.8em;
             }
             
-            h1{
+h1{
                 background: #87CEEB;
+                background-sie: 125% 125%;
                 text-align: center;
