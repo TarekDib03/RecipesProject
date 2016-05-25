@@ -1,0 +1,17 @@
+nav {
+                background: #33ffff;
+                width: 20em;
+            }
+            
+            img {
+                width: 200px;
+                margin-left: -40px;
+            }
+            
+            article {
+                margin-left: 1.8em;
+            }
+            
+            h1{
+                background: #87CEEB;
+                text-align: center;
